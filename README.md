@@ -24,6 +24,7 @@
 - 3000+ https://t.me/esphome
 - 3000+ https://t.me/diy_devices
 - 2000+ https://t.me/xiaomi_gw_v3_hack
+- 2000+ https://t.me/xiaomi_gw_hack
 - 1500+ https://t.me/armenak_a_forum
 - 1000+ https://t.me/smartboxgiga
 
