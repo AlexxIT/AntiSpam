@@ -17,16 +17,18 @@
 
 ## Где работает
 
-- 7500+ https://t.me/homassistant
-- 3500+ https://t.me/yandex_smart_home
-- 3500+ https://t.me/slsys
-- 3000+ https://t.me/homeassistant_hardware
-- 3000+ https://t.me/esphome
-- 3000+ https://t.me/diy_devices
-- 2000+ https://t.me/xiaomi_gw_v3_hack
-- 2000+ https://t.me/xiaomi_gw_hack
-- 1500+ https://t.me/armenak_a_forum
-- 1000+ https://t.me/smartboxgiga
+- 7500+ [Home Assistant](https://t.me/homassistant)
+- 3500+ [Yandex Smart Home (Yaha Cloud)](https://t.me/yandex_smart_home)
+- 3500+ [Smart Logic System](https://t.me/slsys)
+- 3500+ [DIY DEV](https://t.me/diy_devices)
+- 3000+ [Home Assistant - Железяка](https://t.me/homeassistant_hardware)
+- 3000+ [ESPHome](https://t.me/esphome)
+- 2000+ [Xiaomi Gateway v3 Hack](https://t.me/xiaomi_gw_v3_hack)
+- 2000+ [Xiaomi Gateway hack](https://t.me/xiaomi_gw_hack)
+- 1500+ [\[Форум\] Арменак Аветисян](https://t.me/armenak_a_forum)
+- 1500+ [Zigdev](https://t.me/zigdev)
+- 1000+ [OpenWrt на mt7xxx](https://t.me/smartboxgiga)
+- 1000+ [DIY MARKET](https://t.me/diydevmart)
 
 ## Насколько надежно
 
